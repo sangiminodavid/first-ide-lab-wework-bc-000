@@ -1,4 +1,4 @@
-# Your First IDE Lab
+2# Your First IDE Lab
 
 <div class="readme-content-test--hide-when-active">
 
